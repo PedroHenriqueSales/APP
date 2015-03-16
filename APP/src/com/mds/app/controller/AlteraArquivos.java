@@ -12,6 +12,6 @@ public interface AlteraArquivos {
 
 	public void popularProjetos(String conteudoArquivo);
 
-	public void  popularListaComProjetos();
+	public void popularListaComProjetos();
 
 }
